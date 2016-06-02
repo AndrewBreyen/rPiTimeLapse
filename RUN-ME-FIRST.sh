@@ -6,7 +6,6 @@ pause(){
 
 sudo apt-get update
 sudo apt-get install fswebcam
-sudo apt-get install cron
 sudo apt-get update
 
 clear
